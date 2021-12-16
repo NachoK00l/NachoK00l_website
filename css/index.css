@@ -1,0 +1,11 @@
+header{
+	background: black;
+	position: relative;
+}
+.title{
+	font-size: 50px;
+	color: white;
+}
+.header_button{
+	font-size: 30px;
+}
