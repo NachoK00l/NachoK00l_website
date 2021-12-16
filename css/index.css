@@ -1,11 +1,22 @@
+body{
+	margin: 0;
+}
 header{
-	background: black;
-	position: relative;
+	background-color: #F7DE08;
+	text-align: center;
 }
 .title{
 	font-size: 50px;
-	color: white;
+	color: black;
+	margin: 0;
+	text-align: left;
+
 }
 .header_button{
 	font-size: 30px;
+}
+.logo{
+	width: 150px;
+	border-radius: 150px;
+	float: left;
 }
