@@ -1,32 +1,13 @@
 body{
 	margin: 0;
-	background-color: #2C2C2C;
+	
 }
-header{
-	background-color: #F7DE08;
-	text-align: center;
-	margin-bottom: 10px;
+p{
+	color: white;
 }
-.title{
-	font-size: 50px;
-	color: black;
-	margin: 0;
-	text-align: left;
-
+main{
+	margin-top: 7%;
 }
-.header_button{
-	font-size: 30px;
-}
-.logo{
-	width: 150px;
-	border-radius: 150px;
-	float: left;
-}
-.button{
-	background-color: white;
-	font-size: 20px;
-	margin: 10px;
-}
-.button:hover{
-	font-size: 30px;
+html{
+	background: linear-gradient(90deg, #2D013D, #3D0120);
 }
